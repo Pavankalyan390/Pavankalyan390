@@ -3,10 +3,11 @@
 
 Feel free to connect! I'm open to feedbacks in data analysis.
 <br >
-[![Here's my LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](htpps://www.linkedin.com/in/pavan-kalyan-2a0733270/)
+[![Here's my LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](htpps://www.linkedin.com/in/pavan-kalyan-2a0733270/)
 
 # 👨‍💻About me
->Hello I'm a fresher and aspiring Data Analyst with a strong foundation in data analysis and visualization. I recently completed Data Analysis Bootcamp, where I built hands-on projects using real-world business scenarios.
+- 💼Aspiring Data Analyst
+- 🌱Currently building real world projects that slove business problems
 
 I’ve worked extensively with:
 >- SQL for data querying and analysis
