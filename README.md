@@ -46,7 +46,6 @@ I'm passionate about uncovering insights from data and translating them into act
 
 ### Python
 - Pandas & NumPy
-- Matplotlib & Seaborn
 - File Handling (CSV, Excel, JSON)
 - Error Handling & Exception Management
 
