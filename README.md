@@ -1,9 +1,6 @@
 ## Hi there 🖖 it's me Pavan Kalyan :)
 🌱 I'm currently learning Data Analysis!
 
-Feel free to connect! I'm open to feedbacks in data analysis.
-<br >
-[![LinkedIN](htpps://www.linkedin.com/in/pavan-kalyan-2a0733270/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 # 👨‍💻About me
 - 💼Aspiring Data Analyst
